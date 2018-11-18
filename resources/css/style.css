@@ -25,9 +25,19 @@ p {
   color:gray;
 }
 
+a {
+  text-align: center;
+  color: aquamarine;
+  font-family: verdana;
+}
+
+img {
+  margin:0 auto;
+  text-align: center;
+}
+
 #download {
   font-size: 16px;
-  color: auquamarine;
 }
 
 #footer {
